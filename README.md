@@ -15,7 +15,7 @@ El objetivo de esta tarea es que adquirir experiencia en la creación de una esc
 - https://assetstore.unity.com/packages/3d/environments/old-sea-port-environment-36897
 
 # Vista general de la escena
-
+![Imagen](https://github.com/DeividN21/Mi_Terreno_1/blob/main/Imagen.png?raw=true)
 
 
 # Instrucciones para navegar por la Escena:
