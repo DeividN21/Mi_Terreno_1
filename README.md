@@ -14,6 +14,10 @@ El objetivo de esta tarea es que adquirir experiencia en la creación de una esc
 ## Objetos para el lago:
 - https://assetstore.unity.com/packages/3d/environments/old-sea-port-environment-36897
 
+# Vista general de la escena
+
+
+
 # Instrucciones para navegar por la Escena:
 ## Primero:
 Se debe situar al inicio del laberinto, justo allí se muestra una silueta del personaje, el cual tendrá que recorrer por el laberinto y encontrar una salida
