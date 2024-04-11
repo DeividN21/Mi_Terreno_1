@@ -28,4 +28,4 @@ Continuamos con el siguiente escenario, debemos seguir por el bosque. Existen mu
 Finalmente, al recorrer por todos los árboles y salir, nos encontramos con un lago. Se simula que el personaje debe saltar por los troncos y evitar caer al agua ya que el lago ha sido contaminado. Una vez concluido este trayecto vemos un faro el cual indica que todo este "circuito" ha terminado y finalmente el personaje puede observar la hermosa vista del atardecer.
 
 # Enlace del Video de Demostración
-- 
+- https://youtu.be/-RtN0SszCzk
