@@ -1,7 +1,7 @@
 # Mi Terreno 1
 Taller 1: Terrenos y Cubos en Unity
 
-## Objetivo: 
+# Objetivo: 
 El objetivo de esta tarea es que adquirir experiencia en la creación de una escena en Unity, utilizando el diseño de terrenos y la colocación de cubos para crear un entorno. Además, se ha subido el proyecto a GitHub y también se ha elaborado un video de demostración de la escena.
 
 ## Enlaces de assets y ambientes utilizados en el proyecto:
