@@ -20,12 +20,16 @@ El objetivo de esta tarea es que adquirir experiencia en la creación de una esc
 # Instrucciones para Navegar por la Escena:
 ### Primero:
 Se debe situar al inicio del laberinto, justo allí se muestra una silueta del personaje, el cual tendrá que recorrer por el laberinto y encontrar una salida
+![Imagen](https://github.com/DeividN21/Mi_Terreno_1/blob/main/Imagen2.png?raw=true)
 ### Segundo:
 Al concluir el laberinto también se muestra otra silueta del personaje simulando que ya ha salido del mismo.
+![Imagen](https://github.com/DeividN21/Mi_Terreno_1/blob/main/Imagen3.png?raw=true)
 ### Tercero:
 Continuamos con el siguiente escenario, debemos seguir por el bosque. Existen muchos caminos aleatorios que se deben seguir hasta poder encontrar una salida.
+![Imagen](https://github.com/DeividN21/Mi_Terreno_1/blob/main/Imagen4.png?raw=true)
 ### Cuarto:
 Finalmente, al recorrer por todos los árboles y salir, nos encontramos con un lago. Se simula que el personaje debe saltar por los troncos y evitar caer al agua ya que el lago ha sido contaminado. Una vez concluido este trayecto vemos un faro el cual indica que todo este "circuito" ha terminado y finalmente el personaje puede observar la hermosa vista del atardecer.
+![Imagen](https://github.com/DeividN21/Mi_Terreno_1/blob/main/Imagen5.png?raw=true)
 
 # Enlace del Video de Demostración
 - https://youtu.be/-RtN0SszCzk
